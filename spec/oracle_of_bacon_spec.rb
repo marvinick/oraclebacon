@@ -97,6 +97,5 @@ describe OracleOfBacon do
         should raise_error(OracleOfBacon::NetworkError)
     end
   end
-
 end
-      
+
